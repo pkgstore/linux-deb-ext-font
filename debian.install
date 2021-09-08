@@ -1,2 +1,2 @@
-*.ttf /usr/share/fonts/fonts.custom.d
-*.conf /etc/fonts
+*.ttf usr/share/fonts/fonts.custom.d
+*.conf etc/fonts
