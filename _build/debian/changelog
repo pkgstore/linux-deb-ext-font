@@ -1,0 +1,11 @@
+ext-font (1.0.0-2) unstable; urgency=medium
+
+  * UPD: DEB Package.
+
+ -- Package Store <kitsune.solar@gmail.com>  Thu, 09 Sep 2021 14:00:00 +0300
+
+ext-font (1.0.0-1) unstable; urgency=medium
+
+  * Initial Release.
+
+ -- Package Store <kitsune.solar@gmail.com>  Wed, 08 Sep 2021 14:00:00 +0300

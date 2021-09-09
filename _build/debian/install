@@ -1,0 +1,2 @@
+*.ttf usr/share/fonts/fonts.custom.d
+*.conf etc/fonts
