@@ -1,5 +1,5 @@
-microsoft-fonts/*.ttf usr/share/fonts/fonts.custom.d/microsoft-fonts
 fira-code-fonts/*.ttf usr/share/fonts/fonts.custom.d/fira-code-fonts
+microsoft-fonts/*.ttf usr/share/fonts/fonts.custom.d/microsoft-fonts
 noto-emoji-fonts/*.ttf usr/share/fonts/fonts.custom.d/noto-emoji-fonts
 noto-fonts/* usr/share/fonts/fonts.custom.d/noto-fonts
 *.conf etc/fonts
