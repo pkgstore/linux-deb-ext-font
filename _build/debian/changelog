@@ -1,3 +1,12 @@
+ext-font (1.0.0-3) unstable; urgency=medium
+
+  * NEW: noto-emoji-fonts (commit:c05b4b47c8250ccd232780cae46d66a8179e77ab).
+  * NEW: noto-fonts (commit:fd059782cdd4952a9cab23149f30795e6e5c078c).
+  * UPD: fira-code-fonts (v5.2).
+  * UPD: Change paths.
+
+ -- Package Store <kitsune.solar@gmail.com>  Tue, 27 Sep 2021 14:00:00 +0300
+
 ext-font (1.0.0-2) unstable; urgency=medium
 
   * UPD: DEB Package.

@@ -13,8 +13,6 @@ Rules-Requires-Root: no
 
 Package: ext-font
 Architecture: all
-Depends: bash
-        ,zsh
-        ,${misc:Depends}
+Depends: ${misc:Depends}
 Description: META-package for configure font
  META-package for configure font.
