@@ -1,3 +1,13 @@
+ext-font (1.0.0-5) unstable; urgency=medium
+
+  * ADD: "pt-sans".
+  * ADD: "pt-serif".
+  * DEL: "noto-music".
+  * DEL: "noto-symbols".
+  * UPD: "local.conf".
+
+ -- Package Store <kitsune.solar@gmail.com>  Tue, 28 Sep 2021 12:00:00 +0300
+
 ext-font (1.0.0-4) unstable; urgency=medium
 
   * UPD: "local.conf".
