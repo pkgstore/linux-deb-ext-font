@@ -1,3 +1,9 @@
+ext-font (1.0.0-6) unstable; urgency=medium
+
+  * DEL: Remove Fira Code ".woff2" files.
+
+ -- Package Store <mail@z17.dev>  Thu, 24 Mar 2022 00:22:00 +0300
+
 ext-font (1.0.0-5) unstable; urgency=medium
 
   * ADD: "pt-sans".
