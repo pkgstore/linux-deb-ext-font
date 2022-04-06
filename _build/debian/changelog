@@ -1,3 +1,9 @@
+ext-font (1.0.0-1000) unstable; urgency=medium
+
+  * DEL: All fonts (keep MS fonts).
+
+ -- Package Store <pkgstore@mail.ru>  Wed, 06 Apr 2022 17:06:00 +0300
+
 ext-font (1.0.0-6) unstable; urgency=medium
 
   * DEL: Remove Fira Code ".woff2" files.

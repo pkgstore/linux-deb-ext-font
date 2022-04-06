@@ -1,8 +1,8 @@
 Source: ext-font
 Section: fonts
 Priority: optional
-Maintainer: Package Store <mail@z17.dev>
-Uploaders: Package Store <mail@z17.dev>
+Maintainer: Package Store <pkgstore@mail.ru>
+Uploaders: Package Store <pkgstore@mail.ru>
 Build-Depends: debhelper-compat (= 13)
 Standards-Version: 4.5.1
 Homepage: https://pkgstore.gitlab.io

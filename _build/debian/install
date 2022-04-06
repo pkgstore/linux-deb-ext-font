@@ -1,7 +1,2 @@
-fira-code-fonts/* usr/share/fonts/fonts.custom.d/fira-code-fonts
-microsoft-fonts/* usr/share/fonts/fonts.custom.d/microsoft-fonts
-noto-emoji-fonts/* usr/share/fonts/fonts.custom.d/noto-emoji-fonts
-noto-fonts/* usr/share/fonts/fonts.custom.d/noto-fonts
-pt-sans/* usr/share/fonts/fonts.custom.d/pt-sans
-pt-serif/* usr/share/fonts/fonts.custom.d/pt-serif
+fonts/microsoft/*.ttf usr/share/fonts/fonts.custom.d/microsoft
 *.conf etc/fonts
