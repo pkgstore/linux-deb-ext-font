@@ -1,4 +1,4 @@
-<package name="ext-font" project="home:pkgstore:deb-ext">
+<package name="ext-font" project="home:pkgstore:deb:ext">
   <title/>
   <description/>
 </package>
